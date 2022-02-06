@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zZ71UN8tTZCcs5vErGEuMzFuiZJxmfu5bVt3KBUuWimK0V5lyIgQM40wXWurUMmOBwPN1lfZmDtQj834fsF1dQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Axel-Cleris Gailloty\\Desktop\\webapi-asp\\Reactivities\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Axel-Cleris Gailloty\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
